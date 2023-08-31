@@ -63,7 +63,7 @@ function draw() {
   else if(keyDown("space")){
   //player.addImage( shooter_shooting )
   //player.addImage()
-  //player.addImage(shooterImg)
+  player.addImage(shooterImg)
   //player.addImage(shooter_1.png)
   }
 
