@@ -27,14 +27,14 @@ function setup() {
   player.addImage(shooterImg)
   player.scale = 0.3
  
-  //player.debug = true
+  player.debug = true
   //player.debug = false
   //player.Debug =false
   //Player.debug = true
 
   //player.Collider("rectagle",0,0,300,300)
   //player.setcollider("rectangle",0,0)
-  //player.setCollider("rectangle",0,0,300,300)
+  player.setCollider("rectangle",0,0,300,300)
   //player.Setcollider("rectangle",0,0,300,300)
 
 }
